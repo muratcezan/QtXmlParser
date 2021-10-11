@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<employeetypelist count = '9' >    
+  <rec type = '14' usagecount = '50' instId = '1' isValidForAll = '0'/>  
+  <rec type = '16' usagecount = '35' instId = '1' isValidForAll = '1'/>
+  <rec type = '251' usagecount = '65' instId = '1' isValidForAll = '1'/>  
+  <rec type = '27' usagecount = '15' instId = '1' isValidForAll = '1'/>
+  <rec type = '255' usagecount = '15' instId = '2' isValidForAll = '1'/>
+  <rec type = '11' usagecount = '200' instId = '2' isValidForAll = '1'/>
+  <rec type = '15' usagecount = '50' instId = '2' isValidForAll = '1'/>
+  <rec type = '18' usagecount = '45' instId = '2' isValidForAll = '1'/>
+</employeetypelist>
